@@ -37,7 +37,7 @@ const WeatherWidget = () => {
           <div className="flex flex-col">
             <span className="text-3xl font-bold">{weather.temp}</span>
             <span className="text-muted-foreground">{weather.description}</span>
-            <span className="text-sm text-muted-foreground">New York, NY</span>
+            <span className="text-sm text-muted-foreground">Nilambur, Kerala, India</span>
           </div>
           <WeatherIcon className="h-12 w-12 text-primary" />
         </div>
